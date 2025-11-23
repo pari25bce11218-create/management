@@ -8,22 +8,22 @@ This project demonstrates the use of loops, dictionaries, conditional statements
 
 2. Features
 
-1. Patient Admission Module
+a. Patient Admission Module
 Collects patient's personal details.
 Records health-related information.
 Determines admission type (ICU or General Ward).
-2. Ward & Billing System
+b. Ward & Billing System
 Allows selection of ward type.
 Automatically applies ward charges per day.
 Calculates:
 Base amount
 GST (20%)
 Total bill
-3. User-Friendly Interaction
+c. User-Friendly Interaction
 Repeatedly admits multiple patients.
 Allows staff to stop admission anytime.
 Stores the latest patient record.
-4. Data Storage
+d. Data Storage
 Stores patient details in a dictionary.
 Displays the final saved record at the end.
 
@@ -41,20 +41,20 @@ Basic arithmetic operations
 
 4. Steps to install & run the project
 
-1. Install Python
+a. Install Python
 Make sure Python 3.x is installed on your system:
 https://www.python.org/downloads/
-2. Create a Python File
+b. Create a Python File
 Create a file named:
 hospital_management.py
-3. Paste Your Code
+c. Paste Your Code
 Copy your Hospital Management System code into this file.
-4. Run the Program
+d. Run the Program
 Open terminal / command prompt and run:
 python hospital_management.py
 OR if using Python 3 specifically:
 python3 hospital_management.py
-5. Follow the On-Screen Instructions
+e. Follow the On-Screen Instructions
 Enter patient details
 Select ward type
 View the automatically generated bill.
