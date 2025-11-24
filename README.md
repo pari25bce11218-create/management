@@ -1,12 +1,12 @@
 Hospital Management & Billing System
 
-1. Overview
+**1. Overview**
 
 The Hospital Management & Billing System is a Python-based console application designed to manage patient check-in details and generate billing information based on ward type and number of days admitted.
 The system allows hospital staff to register patient information, determine the patient’s condition, choose an appropriate ward, and automatically calculate hospitalization charges including GST.
 This project demonstrates the use of loops, dictionaries, conditional statements, and basic billing logic in Python.
 
-2. Features
+**2. Features**
 
 a. Patient Admission Module
 Collects patient's personal details.
@@ -27,7 +27,7 @@ d. Data Storage
 Stores patient details in a dictionary.
 Displays the final saved record at the end.
 
-3.Technologies/tools used
+**3.Technologies/tools used**
 
 --> Programming Language
 Python 3.x
@@ -39,7 +39,7 @@ String formatting
 User input handling
 Basic arithmetic operations
 
-4. Steps to install & run the project
+**4. Steps to install & run the project**
 
 a. Install Python
 Make sure Python 3.x is installed on your system:
@@ -59,7 +59,7 @@ Enter patient details
 Select ward type
 View the automatically generated bill.
 
-5. Instructions for testing
+**5. Instructions for testing**
 
 To test the Hospital Management System, follow these steps:
 Test Case 1 — General Flow
