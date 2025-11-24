@@ -86,3 +86,16 @@ Test Case 4 — Multiple Patients
 After generating a bill, enter "yes" to admit another patient.
 At the end, enter "no"
 Check if patient_record prints the last admitted patient's details.
+
+**6. Repository Contents**
+HospitalManagement.py: The core Python code with all class definitions and execution logic.
+README.md: This file, serving as the main project documentation, instructions, and feature guide.
+statement.md: Detailed design document outlining the OOP architecture and key structural decisions.
+
+<img width="1792" height="879" alt="Screenshot 2025-11-22 230352" src="https://github.com/user-attachments/assets/cff6d94a-284c-4eb4-95dc-170da28f72f7" />
+
+<img width="1466" height="767" alt="image" src="https://github.com/user-attachments/assets/77074ae0-730c-4ebc-a043-7970d32711c8" />
+
+<img width="1618" height="727" alt="image" src="https://github.com/user-attachments/assets/4920361a-fdde-47b5-9dfc-a82f723ada8c" />
+
+
