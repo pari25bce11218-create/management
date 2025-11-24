@@ -1,6 +1,6 @@
 Hospital Management & Billing System
 
-1.OVERVIEW 
+*1.OVERVIEW*
 
 The Hospital Management & Billing System is a Python-based console application designed to manage patient check-in details and generate billing information based on ward type and number of days admitted.
 The system allows hospital staff to register patient information, determine the patient’s condition, choose an appropriate ward, and automatically calculate hospitalization charges including GST.
