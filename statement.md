@@ -1,4 +1,4 @@
-1.Problem Statement
+**1.Problem Statement**
 
 Managing patient admissions and billing in hospitals manually is time-consuming and prone to errors. Hospital staff must record patient details, determine their condition, select an appropriate ward, and calculate charges including taxes.
 Without an automated system, this process becomes:
@@ -9,7 +9,7 @@ Hard to manage multiple patients
 To solve this, a simple and efficient Python-based console application is needed to automate patient check-in and generate accurate bills.
 
 
-2.Scope of the Project
+**2.Scope of the Project**
 
 The scope of this project includes:
 a. Patient Information Handling
@@ -32,7 +32,7 @@ Calculates ward charges based on stay duration
 Adds GST (20%)
 Generates a complete billing summary.
 
-3.Target Users
+**3.Target Users**
 
 The main users of the Hospital Management & Billing System are:
  a. Hospital Receptionists
@@ -44,7 +44,7 @@ Who need a lightweight, non-database billing solution.
  d. Beginners in Python
 Learning how to build a functional Python console project.
 
-4.High-Level Features
+**4.High-Level Features**
 
  a. Patient Registration
 Allows staff to enter complete patient information
